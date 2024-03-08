@@ -2,7 +2,7 @@
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: Make sure you have required tools installed on your OS, for running the application, especially Android Studio, because the application is tested in that only.. Thankyou!
 
 ## Step 1: Create Directory and Start Metro
 
